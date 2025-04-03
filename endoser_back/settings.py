@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'endoser_back.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'endoser_db',
+        'NAME': 'endoser-db',
         'USER': 'root',
         'PASSWORD': 'felopu94',
         'HOST': 'localhost',
