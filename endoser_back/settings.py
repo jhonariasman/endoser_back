@@ -93,7 +93,7 @@ DATABASES = {
         'NAME': 'endoser-db',
         'USER': 'root',
         'PASSWORD': 'felopu94',
-        'HOST': 'localhost',
+        'HOST': 'endoser-db.ctwwcciw2aoj.us-east-1.rds.amazonaws.com',
         'PORT': '3306', 
     }
 }
